@@ -1,0 +1,515 @@
+ /* first-section */
+
+ .first-section {
+     margin: 50px 20px 5px;
+     margin-bottom: 50px;
+ }
+
+ .second-parag {
+     width: 334px;
+     font-family: 'Aeonik';
+     font-style: normal;
+     font-weight: 400;
+     font-size: 22px;
+     color: #505050;
+
+ }
+
+ li {
+     list-style: none;
+ }
+
+ .same-images {
+     width: 70%;
+     margin-left: 99px;
+ }
+
+ .navbar-brand {
+     margin-left: 20px;
+     
+ }
+
+ .nav-link {
+     font-family: 'Aeonik';
+     font-style: normal;
+     font-weight: 400;
+     font-size: 20px;
+     color: #505050;
+     line-height: 24px;
+ }
+
+ h1 {
+     font-family: 'Aeonik';
+     font-style: normal;
+     font-weight: 700;
+     font-size: 75px;
+     line-height: 84px;
+     color: #151515;
+ }
+
+ .hero-img {
+     width: 100%;
+     height: auto;
+ }
+
+ .btn {
+     margin-top: 30px;
+     margin-bottom: 1em;
+ }
+
+ /* second section */
+ .second-section {
+     margin-top: 80px;
+ }
+
+ .daily-service-list {
+     font-family: 'Aeonik';
+     font-style: normal;
+     font-weight: 400;
+     font-size: 22px;
+     line-height: 32px;
+     color: #505050;
+ }
+
+ .Getfoodstuff-text {
+     font-family: 'Aeonik';
+     font-style: normal;
+     font-weight: 700;
+     font-size: 48px;
+     line-height: 58px;
+
+     color: #151515;
+ }
+
+ .Getfoodstuff-image {
+     width: 70%;
+ }
+
+ .Getfoodstuff {
+     margin-top: 60px;
+ }
+
+ .foodstuff-text2 {
+     font-family: 'Aeonik';
+     font-style: normal;
+     font-weight: 400;
+     font-size: 22px;
+     height: 64px;
+     line-height: 32px;
+     color: #505050;
+
+ }
+
+ .icon-images {
+     margin: 5px 5px 5px;
+ }
+
+ .containerh4 {
+     font-family: 'Aeonik';
+     font-style: normal;
+     font-weight: 500;
+     font-size: 24px;
+     line-height: 29px;
+     color: #151515;
+ }
+
+ .container1 {
+     box-sizing: border-box;
+     width: 322px;
+     background: #FCFCFC;
+     font-family: 'Aeonik';
+     font-style: normal;
+     font-weight: 400;
+     font-size: 20px;
+     line-height: 24px;
+     color: #505050;
+ }
+
+ .container2 {
+     box-sizing: border-box;
+     width: 322px;
+     background: #FCFCFC;
+     font-family: 'Aeonik';
+     font-style: normal;
+     font-weight: 400;
+     font-size: 20px;
+     line-height: 24px;
+     color: #505050;
+ }
+
+ .container3 {
+     font-family: 'Aeonik';
+     font-style: normal;
+     font-weight: 400;
+     font-size: 20px;
+     line-height: 24px;
+     color: #505050;
+     margin-top: 8px;
+ }
+
+ .container4 {
+     box-sizing: border-box;
+     background: #FCFCFC;
+     font-family: 'Aeonik';
+     font-style: normal;
+     font-weight: 400;
+     font-size: 20px;
+     color: #505050;
+     margin-left: 50px;
+
+ }
+
+ .container1:hover {
+     border: 0.5px solid #808080;
+     border-radius: 8px;
+ }
+
+ .container2:hover {
+     border: 0.5px solid #808080;
+     border-radius: 8px;
+ }
+
+ .container4:hover {
+     border: 0.5px solid #808080;
+     border-radius: 8px;
+ }
+
+ /* calender section */
+ .calender-image {
+     margin-bottom: 22px;
+ }
+
+ .calender {
+     margin-left: 50px;
+     margin-top: 30px;
+ }
+
+ .food-basket {
+     margin-top: 60px;
+ }
+
+ .calender-text {
+     font-family: 'Aeonik';
+     font-style: normal;
+     font-weight: 700;
+     font-size: 48px;
+     line-height: 58px;
+     color: #151515;
+     text-align: center;
+     margin-top: 44px;
+ }
+
+ .calender-text2 {
+     font-family: 'Aeonik';
+     font-style: normal;
+     font-weight: 500;
+     font-size: 22px;
+     line-height: 28px;
+     color: #151515;
+     margin-top: 22px;
+ }
+
+ .calender-text3 {
+     width: 228px;
+     height: 43px;
+     font-family: 'Aeonik';
+     font-style: normal;
+     font-weight: 700;
+     font-size: 36px;
+     line-height: 43px;
+     color: #151515;
+ }
+
+ .calender-list {
+     font-family: 'Aeonik';
+     font-style: normal;
+     font-weight: 400;
+     font-size: 22px;
+     line-height: 30px;
+     color: #505050;
+     width: 555px;
+ }
+
+ .calender-list2 {
+     font-family: 'Aeonik';
+     font-style: normal;
+     font-weight: 400;
+     font-size: 22px;
+     line-height: 30px;
+     color: #505050;
+     width: 568px;
+ }
+
+ .calender-list3 {
+     font-family: 'Aeonik';
+     font-style: normal;
+     font-weight: 400;
+     font-size: 22px;
+     line-height: 30px;
+     width: 536px;
+     color: #505050;
+ }
+
+ .calender-list4 {
+     font-family: 'Aeonik';
+     font-style: normal;
+     font-weight: 400;
+     font-size: 22px;
+     line-height: 30px;
+     color: #505050;
+     width: 373px;
+ }
+
+ .icon-img {
+     height: 25px;
+
+ }
+
+ /* fouth-section */
+ .custom {
+     margin-left: 50px;
+     margin-top: 40px;
+ }
+
+ .meal-packs {
+     margin-top: 90px;
+ }
+
+ .meal-pack-text {
+     font-family: 'Aeonik';
+     font-style: normal;
+     font-weight: 400;
+     font-size: 22px;
+     line-height: 30px;
+     color: #505050;
+ }
+
+ .meal-pack-text2 {
+     font-family: 'Aeonik';
+     font-style: normal;
+     font-weight: 400;
+     font-size: 22px;
+     line-height: 30px;
+     color: #505050;
+ }
+
+ .Custom-meal-text {
+     font-family: 'Aeonik';
+     font-style: normal;
+     font-weight: 700;
+     font-size: 36px;
+     line-height: 43px;
+     color: #151515;
+ }
+
+ .meal-pack-text1 {
+     font-family: 'Aeonik';
+     font-style: normal;
+     font-weight: 500;
+     font-size: 28px;
+     line-height: 28px;
+     color: #151515;
+
+ }
+
+ /* shipping-section */
+ .shipping-image {
+     width: 70%;
+ }
+
+ .shipping {
+     margin-left: 50px;
+     margin-top: 40px;
+ }
+
+ .shipping-text {
+     margin-top: 90px;
+ }
+
+ .shipping-text1 {
+     font-family: 'Aeonik';
+     font-style: normal;
+     font-weight: 700;
+     font-size: 36px;
+     line-height: 43px;
+
+     color: #151515;
+ }
+
+ .shipping-text2 {
+     font-family: 'Aeonik';
+     font-style: normal;
+     font-weight: 400;
+     font-size: 22px;
+     line-height: 28px;
+     color: #151515;
+ }
+
+ .shipping-text3 {
+
+     font-family: 'Aeonik';
+     font-style: normal;
+     font-weight: 400;
+     font-size: 22px;
+     line-height: 30px;
+     color: #505050;
+
+ }
+
+ .shipping-text4 {
+     font-family: 'Aeonik';
+     font-style: normal;
+     font-weight: 400;
+     font-size: 22px;
+     line-height: 30px;
+     color: #505050;
+ }
+
+ /* meal-planner */
+ .meal {
+     margin-left: 23px;
+     margin-top: 20px;
+ }
+
+ .meal-text {
+     margin-top: 99px;
+ }
+
+ .meal-plan-image {
+     margin-bottom: 20px;
+ }
+
+ .meal-planner-text {
+     font-family: 'Aeonik';
+     font-style: normal;
+     font-weight: 700;
+     font-size: 36px;
+     line-height: 43px;
+     color: #151515;
+ }
+
+ .meal-planner-text1 {
+     font-family: 'Aeonik';
+     font-style: normal;
+     font-weight: 400;
+     font-size: 22px;
+     line-height: 30px;
+     color: #505050
+ }
+
+ .meal-planner-text2 {
+     font-family: 'Aeonik';
+     font-style: normal;
+     font-weight: 400;
+     font-size: 22px;
+     line-height: 30px;
+     color: #505050;
+ }
+
+ .meal-planner-text3 {
+     font-family: 'Aeonik';
+     font-style: normal;
+     font-weight: 500;
+     font-size: 22px;
+     line-height: 28px;
+     color: #151515;
+ }
+
+ /* FAQS-section */
+ .FAQ {
+     width: 50%;
+     padding: 10px 0;
+     margin-bottom: 15px;
+     background-color: #CDEDDB;
+
+ }
+
+ .FAQS-h3 {
+     text-align: center;
+     font-family: 'Aeonik';
+     font-style: normal;
+     font-weight: 700;
+     font-size: 48px;
+     line-height: 58px;
+     color: #151515;
+     margin-top: 54px;
+ }
+
+ .drop-down {
+     height: 15px;
+     margin-right: 10px;
+     width: 20px;
+     margin-top: 8px;
+ }
+
+ .FAQS {
+     display: flex;
+     justify-content: center;
+     align-items: center;
+     flex-direction: column;
+     margin-top: 44px;
+
+ }
+
+ h6 {
+     font-family: 'Aeonik';
+     font-style: normal;
+     font-weight: 400;
+     font-size: 20px;
+     line-height: 28px;
+     color: #151515;
+     margin-left: 15px;
+ }
+
+ ul {
+     list-style-type: none;
+ }
+
+ /* footer-section */
+ .footer-section {
+     margin-top: 40px;
+
+ }
+
+ .rounded-circle {
+     background-color: #0C7B3E;
+     width: 36.62px;
+     height: 36.62px;
+     border-radius: 76.2823px;
+     padding: 8px 8px 8px;
+
+ }
+
+ .footer-list {
+     font-family: 'Aeonik';
+     font-style: normal;
+     font-weight: 400;
+     font-size: 20px;
+     line-height: 24px;
+     color: #505050;
+ }
+
+ .copyright {
+     font-family: 'Aeonik';
+     font-style: normal;
+     font-weight: 400;
+     font-size: 20px;
+     line-height: 34px;
+     color: #505050;
+     text-align: center;
+     margin-top: 28px;
+ }
+
+ .footer-paragraph {
+     font-family: 'Aeonik';
+     font-style: normal;
+     font-weight: 400;
+     font-size: 20px;
+     line-height: 24px;
+     color: #505050
+ }
+
+ hr {
+     width: 1318px;
+     border: 1px solid rgba(80, 80, 80, 0.6);
+ }
